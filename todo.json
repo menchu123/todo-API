@@ -8,12 +8,12 @@
     {
       "id": 2,
       "task": "Llorar",
-      "done": true
+      "done": false
     },
     {
       "id": 3,
       "task": "Sacar a Elsa",
-      "done": true
+      "done": false
     }
   ]
 }
